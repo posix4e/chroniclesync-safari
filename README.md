@@ -9,6 +9,7 @@ The project consists of the following components:
 - **iOS App Container**: The main iOS app that hosts the Safari extension
 - **Safari Extension**: The extension that integrates with Safari
 - **Tests**: Unit and integration tests for the app and extension
+- **GitHub Actions**: CI/CD workflow for building and testing
 
 ## Features
 
